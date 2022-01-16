@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Sim
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/yxuan1996/yxuan1996/raw/main/My%20Profile%20Banner.png)
 
 I am a developer that specializes in developing dashboards and automated ETL pipelines. 
 I can help you ingest data from multiple sources, clean up messy or dirty data, and present your data in a nice and clean dashboard.
-
+I enjoy uncovering insights from data, makes me feel like a 🔎 data detective 😊  
 
 ### ⚡ Programming Languages
 - Python
