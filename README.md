@@ -26,6 +26,7 @@ I enjoy uncovering insights from data, makes me feel like a 🔎 data detective 
 I specialize in Microsoft Azure Technologies and have several Azure Certifications:
 - Azure Data Engineer Associate
 - Azure Data Scientist Associate
+- Azure Developer Associate
 - Azure Security Engineer Associate
 - Azure Fundamentals 
 
