@@ -20,6 +20,7 @@ I enjoy uncovering insights from data, makes me feel like a 🔎 data detective 
 - Microsoft Azure Datalake
 - Microsoft Azure Data Factory
 - Microsoft Azure Databricks
+- Google Data Studio
 - Google Firebase 🔥  
 
 
@@ -32,7 +33,9 @@ I specialize in Microsoft Azure Technologies and have several Azure Certificatio
 
 ### 💼 Projects
 - [Sales and Customer Dashboard](https://bit.ly/3KdvaPE)
+- [Landing Page for Author](https://yxuan1996.github.io/Malcolm-Website/)
 - [Business Landing Page](https://yxuan1996.github.io/Vitapac-Website/)
+- [English Premier League Dashboard](https://datastudio.google.com/s/lAb0BtwKCh8)
 - [Machine Leaning - Predicting EPL Football Matches](https://github.com/yxuan1996/predicting_epl_matches)
 
 ### My Profiles
