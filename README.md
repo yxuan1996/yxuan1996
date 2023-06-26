@@ -30,7 +30,6 @@ I specialize in Microsoft Azure Technologies and have several Azure Certificatio
 - Azure Administrator Associate
 - Azure Developer Associate
 - Azure Security Engineer Associate
-- Azure Fundamentals 
 
 ### 💼 Projects
 - [Drawing / Sketching Tool](https://yxuan1996.github.io/Etch-a-Sketch/)
