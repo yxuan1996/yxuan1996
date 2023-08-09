@@ -32,6 +32,7 @@ I specialize in Microsoft Azure Technologies and have several Azure Certificatio
 - Azure Security Engineer Associate
 
 ### 💼 Projects
+- [Mini Message Board](https://mini-message-board-r8hr.onrender.com/)
 - [Drawing / Sketching Tool](https://yxuan1996.github.io/Etch-a-Sketch/)
 - [Sample Admin Dashboard](https://yxuan1996.github.io/Admin-Dashboard/)
 - [Sales and Customer Dashboard](https://bit.ly/3KdvaPE)
