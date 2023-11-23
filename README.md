@@ -32,12 +32,13 @@ I specialize in Microsoft Azure Technologies and have several Azure Certificatio
 - Azure Security Engineer Associate
 
 ### 💼 Projects
+- [Business Landing Page](https://ramuanflavours.com/)
+- [Landing Page for Author](https://yxuan1996.github.io/Malcolm-Website/)
+- [Inventory Management / Product Page](https://beyondrealms-travel.onrender.com/)
 - [Mini Message Board](https://mini-message-board-r8hr.onrender.com/)
 - [Drawing / Sketching Tool](https://yxuan1996.github.io/Etch-a-Sketch/)
 - [Sample Admin Dashboard](https://yxuan1996.github.io/Admin-Dashboard/)
 - [Sales and Customer Dashboard](https://bit.ly/3KdvaPE)
-- [Landing Page for Author](https://yxuan1996.github.io/Malcolm-Website/)
-- [Business Landing Page](https://yxuan1996.github.io/Vitapac-Website/)
 - [Machine Leaning - Predicting EPL Football Matches](https://github.com/yxuan1996/predicting_epl_matches)
 
 ### My Profiles
