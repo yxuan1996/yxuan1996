@@ -25,6 +25,7 @@ I enjoy uncovering insights from data, makes me feel like a 🔎 data detective 
 
 
 I specialize in Microsoft Azure Technologies and have several Azure Certifications:
+- Azure Solutions Architect Expert
 - Azure Data Engineer Associate
 - Azure Data Scientist Associate
 - Azure Administrator Associate
@@ -44,8 +45,9 @@ I specialize in Microsoft Azure Technologies and have several Azure Certificatio
 ### My Profiles
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yxuan1996) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yi-xuan-sim-9ab035109/) &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01484ede515815e8e6)  
 
+<!---
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yxuan1996)  
-
+--->
 
 <!---
 yxuan1996/yxuan1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
