@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sim 
 
-![](https://github.com/yxuan1996/yxuan1996/raw/main/My%20Profile%20Banner.png)
+![](https://github.com/yxuan1996/yxuan1996/raw/main/New_Profile_Banner.png)
 
 I’m a Data Engineer with 5+ years of experience delivering data platforms and analytics systems across multiple business domains.
 
