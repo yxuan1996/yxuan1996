@@ -93,7 +93,8 @@ I share my thoughts on:
 - Building real-world AI systems  
 - Data engineering best practices  
 
-(Links coming soon)
+- [Azure Cost Governance Playbook](https://medium.com/@yxuan1996/dont-let-azure-surprise-you-a-practical-playbook-for-cloud-cost-governance-5f9ad087f12b)
+  A lightweight framework / playbook for managing costs on Azure cloud. 
 
 ---
 
